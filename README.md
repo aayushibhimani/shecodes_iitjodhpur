@@ -1,5 +1,3 @@
-# shecodes_iitj_myntra
-
 # Stable Diffusion 3 with DreamBooth LoRA
 
 This repository contains code for training and inference using Stable Diffusion 3 with DreamBooth and LoRA (Low-Rank Adaptation). The project is designed to generate images based on text prompts and fine-tune models with specific datasets.
